@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">512983538121-b7gof7jr7konoutcbg90g1dha6vig28r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://getorderr.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">512983538121</string>
+    <string name="google_api_key" translatable="false">AIzaSyDicR3UivayT0289HvzpsyP23ODiv-FuuI</string>
+    <string name="google_app_id" translatable="false">1:512983538121:android:d56c3cf8dd77c8f5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDicR3UivayT0289HvzpsyP23ODiv-FuuI</string>
+    <string name="google_storage_bucket" translatable="false">getorderr.appspot.com</string>
+    <string name="project_id" translatable="false">getorderr</string>
+</resources>

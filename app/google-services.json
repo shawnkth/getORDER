@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512983538121",
+    "firebase_url": "https://getorderr.firebaseio.com",
+    "project_id": "getorderr",
+    "storage_bucket": "getorderr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512983538121:android:d56c3cf8dd77c8f5",
+        "android_client_info": {
+          "package_name": "com.shawn.getorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512983538121-b7gof7jr7konoutcbg90g1dha6vig28r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDicR3UivayT0289HvzpsyP23ODiv-FuuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512983538121-b7gof7jr7konoutcbg90g1dha6vig28r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
