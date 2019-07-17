@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shawn\\getORDER\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\SCHOOLWORK\\2.1\\Mobile Applications Development (MAD)\\getOrder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\c6b7711bef163e064bd88933c023ea99\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,5,8,11",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,223,386,554",
-                        "endLines": "4,7,10,13",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "218,381,549,716"
-                    },
-                    "to": {
-                        "startLines": "265,268,272,276",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "19504,19672,19961,20257",
-                        "endLines": "267,270,274,278",
-                        "endColumns": "12,12,12,12",
-                        "endOffsets": "19667,19830,20124,20419"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\f09e339169a9e2ed8aec00b091c323df\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\7be97c0cd6f3e5fd4cc6eed0ab6bd287\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\6c469c700090f77b72c2906342348f90\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\42c0ad319107ca22f1f03390d7f5a477\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "265,268,272,276",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19504,19672,19961,20257",
+                        "endLines": "267,270,274,278",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "19667,19830,20124,20419"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\00ad9891193b6a7b48a03282863ed9eb\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,7 +61,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\1588e85064e81b8486a3383ebf419582\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\38ea0287f1d3da2e1cc1aa972d42c5db\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,10,18,26",
                         "startColumns": "4,4,4,4",
