@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tankw\\AndroidStudioProjects\\getORDER\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\SCHOOLWORK\\2.1\\Mobile Applications Development (MAD)\\getOrder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\tankw\\.gradle\\caches\\transforms-2\\files-2.1\\3a21e5ae19888ed1e7e5e23e01189bac\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\00ad9891193b6a7b48a03282863ed9eb\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tankw\\.gradle\\caches\\transforms-2\\files-2.1\\696dc1270a2875f0fd72cebb5ac37971\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Kip\\.gradle\\caches\\transforms-2\\files-2.1\\38ea0287f1d3da2e1cc1aa972d42c5db\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
