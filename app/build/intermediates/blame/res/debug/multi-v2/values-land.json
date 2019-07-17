@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Shawn\\getORDER\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\tankw\\AndroidStudioProjects\\getORDER\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\1588e85064e81b8486a3383ebf419582\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\tankw\\.gradle\\caches\\transforms-2\\files-2.1\\3a21e5ae19888ed1e7e5e23e01189bac\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tankw\\.gradle\\caches\\transforms-2\\files-2.1\\696dc1270a2875f0fd72cebb5ac37971\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "8",
                         "endColumns": "10",
                         "endOffsets": "431"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Shawn\\.gradle\\caches\\transforms-2\\files-2.1\\6c469c700090f77b72c2906342348f90\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
                     }
                 }
             ]
